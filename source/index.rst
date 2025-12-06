@@ -13,8 +13,6 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
-   
-   Setup of the FlatST environment
    1 LCEL
    Tutorial 2 MERFISH
    Tutorial 3 Denoising
