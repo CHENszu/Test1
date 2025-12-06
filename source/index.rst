@@ -13,8 +13,5 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
    1 LCEL
-   Tutorial 2 MERFISH
-   Tutorial 3 Denoising
-   Tutorial 4 2D
-   Tutorial 5 3D
